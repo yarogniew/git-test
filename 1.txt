@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 dodałem coś
-=======
 git jest bardzo fajny
->>>>>>> cbc305604ba55e2007c09dbd1ee11ee3df4cef5b
+
