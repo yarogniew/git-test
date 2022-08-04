@@ -1,0 +1,4 @@
+
+dodałem coś
+git jest bardzo fajny
+git jest jeszcze fajniejszy
